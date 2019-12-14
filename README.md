@@ -13,4 +13,8 @@ al
 * divide & conquer: 50， 169
 * greedy: 122
 * bfs & dfs: 102, 22
-* backtracking: 51, 52
+* backtracking: 51, 52, 36, 37
+* binary search: 69
+* trie: 
+* bitwise: 191, 231, 338
+* dynamic programming: 70, 

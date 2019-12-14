@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/169_MajorityElement.js"
+            "program": "${workspaceFolder}/120_Triangle.js"
         }
     ]
 }
