@@ -17,4 +17,5 @@ al
 * binary search: 69
 * trie: 
 * bitwise: 191, 231, 338
-* dynamic programming: 70, 
+* dynamic programming: 70, 120, 152,  121, 122, 123, 309, 188, 714, 300, 322, 71
+* union-find: 200, 547
